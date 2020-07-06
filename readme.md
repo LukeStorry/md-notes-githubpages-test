@@ -8,8 +8,8 @@ Use or Fork this Template Repository, make new `.md` notes in different files, a
 Github will do the rest, for free.
 
 
-
-## Here're some links
+---
+Here're some links
 
  - [click here](second-page.html) to go to page 2
  - [third page](a folder/third page.html)
