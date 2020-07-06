@@ -1,5 +1,3 @@
-# Github Notes
-
 Simple linked md notes, using Github Pages.
 
 See it in action [here](lukestorry.github.io/notes/).
