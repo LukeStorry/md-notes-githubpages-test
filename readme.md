@@ -8,4 +8,4 @@ Github will do the rest, for free.
 Here's some links
 
  - [click here](second-page.html) to go to page 2
- - [third page](third-page.html)
+ - [third page](a folder/third page.html)
